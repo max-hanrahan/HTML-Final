@@ -1,0 +1,9 @@
+body {color: ghostwhite; background-color: black; font-family: inherit; text-align: center}
+#home{float: none; clear: right}
+ul {font-family: inherit; font-size: 14pt; text-align: left; margin-right: 0px; padding-bottom: 15px; padding-top: 0px}
+h1{text-align: center}
+a{text-align: center; font-family:inherit; color: white;}
+
+img {float: center; float: down}
+p {text-align: left}
+address {text-align: center; border: 2pt solid blue;}
